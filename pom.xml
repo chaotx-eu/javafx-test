@@ -20,6 +20,7 @@
             </plugin>
 
             <!-- @see https://github.com/javafx-maven-plugin/javafx-maven-plugin -->
+            <!--
             <plugin>
                 <groupId>com.zenjava</groupId>
                 <artifactId>javafx-maven-plugin</artifactId>
@@ -29,6 +30,7 @@
                     <mainClass>eu.zoho.chaotx.demo.DemoFX</mainClass>
                 </configuration>
             </plugin>
+            -->
 
             <!-- @see http://maven.apache.org/plugins/maven-assembly-plugin/usage.html -->
             <plugin>
